@@ -1,2 +1,2 @@
 # Epidemics-python-program
-This program was created 
+This program was created for my master's degree dissertation in early to mid 2020 at the Gdansk University of Technology. It is a program created in python to simulate the spread of disease within a randomly generated population, and to display the aftermath through generating graphs that quantify data such as comparing the number of deaths to the population density ect.
